@@ -22,8 +22,6 @@ package org.matsim.gui;
 import org.matsim.project.RunMatsim;
 import org.matsim.run.gui.Gui;
 
-import java.io.File;
-
 public class MATSimGUI {
 
 	public static void main(String[] args) {
